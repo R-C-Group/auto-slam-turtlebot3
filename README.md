@@ -16,7 +16,7 @@
 
 ```bash
 
-git clone --recursive https://github.com/mywisdomfly/Clean-robot-turtlebot3.git
+git clone --recursive git@github.com:R-C-Group/auto-slam-turtlebot3.git
 
 # 编译
 cd ~/catkin_ws && catkin_make
