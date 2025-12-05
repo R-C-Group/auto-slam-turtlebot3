@@ -50,11 +50,13 @@ TURTLEBOT3_MODEL=waffle roslaunch explore_lite explore.launch
 
 <div align="center">
   <img src="./assert/2025-12-05 08-13-19 的屏幕截图.png" width="80%" />
+  <img src="./assert/2025-12-05 08-50-24 的屏幕截图.png" width="80%" />
+  <img src="./assert/2025-12-05 08-50-36 的屏幕截图.png" width="80%" />
 <figcaption>  
 </figcaption>
 </div>
 
-* 采用`rrt_exploration`实现自动探索
+<!-- * 采用`rrt_exploration`实现自动探索
 
 ```bash
 TURTLEBOT3_MODEL=waffle roslaunch rrt_exploration_tutorials single_simulated_house.launch
@@ -63,4 +65,4 @@ TURTLEBOT3_MODEL=waffle roslaunch rrt_exploration_tutorials single_simulated_hou
 # chmod +x scripts/filter.py scripts/assigner.py
 # sudo pip3 install -U scikit-learn  or  sudo apt-get install python-sklearn
 TURTLEBOT3_MODEL=waffle roslaunch rrt_exploration single.launch 
-```
+``` -->
